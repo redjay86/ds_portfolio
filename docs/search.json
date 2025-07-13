@@ -33,44 +33,30 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rex Wight",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Student of Physics\n\nLinkedIn | rexjared86@gmail.com\n\n\n\nStudying\n\n\nEmphasis: Computation\n\n\n\n\n\nAug 2022 – Dec 2022\n\nImplemented reinforcement learning algorithms to train virtual robots with TensorFlow.\nBuilt a wrapper for Google’s MuJoCo environments for PNNL’s learner ExaRL.\nOptimized Actor-Critic models using parallel computing techniques to enhance training efficiency.\nDesigned and executed experimental tests to support research and performance analysis.\n\n\n\n\nNov 2021 – Sep 2022\n\nInstructed elementary and middle school students in programming fundamentals (e.g., loops, conditionals) via Zoom.\nCollaborated with team to refine curriculum and enhance student engagement.\nFostered critical-thinking skills, inspiring 20+ students to pursue STEM projects.\n\n\n\n\nMar 2021 - Apr 2021\n\nApplied machine learning (Artificial Neural Networks and Convolutional Neural Networks) and numerical methods to compute thermal diffusivities of Uranium-Molybdenum alloys.\nDeveloped adaptable problem-solving strategies for complex scientific challenges.\n\n\n\n\nAug 2020 - Sept 2020\n\nReviewed and designed GUI for EFFTRAN, a Monte Carlo-based gamma-ray spectrometry algorithm, improving usability.\nDeveloped a machine learning model to predict cladding thickness on irradiated fuel plates.\nWrote miscellaneous Python scripts for other projects as requested by my mentor.\n\n\n\n\n\n\nPython\nTensorFlow\nPandas, NumPy, Matplotlib, etc.\nJavaScript\nHTML\nCSS\nVisualBasic.NET\nProcessing\nArduino\nRobotics\nLeadership\n\n\n\n\n\nSeptember 2022 - now Brigham Young University Idaho\n\n\n\n\nPhysics\nCalculus\nLinear Algebra\nQuantum Computing\nChemistry\nBiology"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rex Wight",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Studying\n\n\nEmphasis: Computation\n\n\n\n\n\nAug 2022 – Dec 2022\n\nImplemented reinforcement learning algorithms to train virtual robots with TensorFlow.\nBuilt a wrapper for Google’s MuJoCo environments for PNNL’s learner ExaRL.\nOptimized Actor-Critic models using parallel computing techniques to enhance training efficiency.\nDesigned and executed experimental tests to support research and performance analysis.\n\n\n\n\nNov 2021 – Sep 2022\n\nInstructed elementary and middle school students in programming fundamentals (e.g., loops, conditionals) via Zoom.\nCollaborated with team to refine curriculum and enhance student engagement.\nFostered critical-thinking skills, inspiring 20+ students to pursue STEM projects.\n\n\n\n\nMar 2021 - Apr 2021\n\nApplied machine learning (Artificial Neural Networks and Convolutional Neural Networks) and numerical methods to compute thermal diffusivities of Uranium-Molybdenum alloys.\nDeveloped adaptable problem-solving strategies for complex scientific challenges.\n\n\n\n\nAug 2020 - Sept 2020\n\nReviewed and designed GUI for EFFTRAN, a Monte Carlo-based gamma-ray spectrometry algorithm, improving usability.\nDeveloped a machine learning model to predict cladding thickness on irradiated fuel plates.\nWrote miscellaneous Python scripts for other projects as requested by my mentor.\n\n\n\n\n\n\nPython\nTensorFlow\nPandas, NumPy, Matplotlib, etc.\nJavaScript\nHTML\nCSS\nVisualBasic.NET\nProcessing\nArduino\nRobotics\nLeadership"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Rex Wight",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "September 2022 - now Brigham Young University Idaho"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#relevant-courses",
+    "href": "resume.html#relevant-courses",
+    "title": "Rex Wight",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Physics\nCalculus\nLinear Algebra\nQuantum Computing\nChemistry\nBiology"
   },
   {
     "objectID": "Machine_Learning/project3.html",
