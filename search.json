@@ -1,0 +1,353 @@
+[
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Rex Wight",
+    "section": "",
+    "text": "Student of Physics\n\nLinkedIn | rexjared86@gmail.com\n\n\n\nStudying\n\n\nEmphasis: Computation\n\n\n\n\n\nAug 2022 – Dec 2022\n\nImplemented reinforcement learning algorithms to train virtual robots with TensorFlow.\nBuilt a wrapper for Google’s MuJoCo environments for PNNL’s learner ExaRL.\nOptimized Actor-Critic models using parallel computing techniques to enhance training efficiency.\nDesigned and executed experimental tests to support research and performance analysis.\n\n\n\n\nNov 2021 – Sep 2022\n\nInstructed elementary and middle school students in programming fundamentals (e.g., loops, conditionals) via Zoom.\nCollaborated with team to refine curriculum and enhance student engagement.\nFostered critical-thinking skills, inspiring 20+ students to pursue STEM projects.\n\n\n\n\nMar 2021 - Apr 2021\n\nApplied machine learning (Artificial Neural Networks and Convolutional Neural Networks) and numerical methods to compute thermal diffusivities of Uranium-Molybdenum alloys.\nDeveloped adaptable problem-solving strategies for complex scientific challenges.\n\n\n\n\nAug 2020 - Sept 2020\n\nReviewed and designed GUI for EFFTRAN, a Monte Carlo-based gamma-ray spectrometry algorithm, improving usability.\nDeveloped a machine learning model to predict cladding thickness on irradiated fuel plates.\nWrote miscellaneous Python scripts for other projects as requested by my mentor.\n\n\n\n\n\n\nPython\nTensorFlow\nPandas, NumPy, Matplotlib, etc.\nJavaScript\nHTML\nCSS\nVisualBasic.NET\nProcessing\nArduino\nRobotics\nLeadership\n\n\n\n\n\nSeptember 2022 - now Brigham Young University Idaho\n\n\n\n\nPhysics\nCalculus\nLinear Algebra\nQuantum Computing\nChemistry\nBiology"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Rex Wight",
+    "section": "",
+    "text": "Studying\n\n\nEmphasis: Computation\n\n\n\n\n\nAug 2022 – Dec 2022\n\nImplemented reinforcement learning algorithms to train virtual robots with TensorFlow.\nBuilt a wrapper for Google’s MuJoCo environments for PNNL’s learner ExaRL.\nOptimized Actor-Critic models using parallel computing techniques to enhance training efficiency.\nDesigned and executed experimental tests to support research and performance analysis.\n\n\n\n\nNov 2021 – Sep 2022\n\nInstructed elementary and middle school students in programming fundamentals (e.g., loops, conditionals) via Zoom.\nCollaborated with team to refine curriculum and enhance student engagement.\nFostered critical-thinking skills, inspiring 20+ students to pursue STEM projects.\n\n\n\n\nMar 2021 - Apr 2021\n\nApplied machine learning (Artificial Neural Networks and Convolutional Neural Networks) and numerical methods to compute thermal diffusivities of Uranium-Molybdenum alloys.\nDeveloped adaptable problem-solving strategies for complex scientific challenges.\n\n\n\n\nAug 2020 - Sept 2020\n\nReviewed and designed GUI for EFFTRAN, a Monte Carlo-based gamma-ray spectrometry algorithm, improving usability.\nDeveloped a machine learning model to predict cladding thickness on irradiated fuel plates.\nWrote miscellaneous Python scripts for other projects as requested by my mentor.\n\n\n\n\n\n\nPython\nTensorFlow\nPandas, NumPy, Matplotlib, etc.\nJavaScript\nHTML\nCSS\nVisualBasic.NET\nProcessing\nArduino\nRobotics\nLeadership"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Rex Wight",
+    "section": "",
+    "text": "September 2022 - now Brigham Young University Idaho"
+  },
+  {
+    "objectID": "resume.html#relevant-courses",
+    "href": "resume.html#relevant-courses",
+    "title": "Rex Wight",
+    "section": "",
+    "text": "Physics\nCalculus\nLinear Algebra\nQuantum Computing\nChemistry\nBiology"
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competitions",
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competitions",
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  }
+]
