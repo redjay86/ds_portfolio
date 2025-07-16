@@ -6,8 +6,8 @@ title: Rex Wight
 Student of Physics
 
 <div id="webaddress">
-<a href="www.linkedin.com/in/rex-wight-4a17791aa">LinkedIn</a>
-| <a href="rexjared86@gmail.com">rexjared86@gmail.com</a>
+<a href="https://www.linkedin.com/in/rex-wight-4a17791aa">LinkedIn</a>
+| <a href="mailto:rexjared86@gmail.com">rexjared86@gmail.com</a>
 </div>
 
 
